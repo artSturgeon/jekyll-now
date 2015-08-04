@@ -26,7 +26,9 @@ Play an alpha version now on this website.
 ![an image alt text]({{ site.baseurl }}/images/nubbles_banner_orig.png "an image title")
 
 
-Or download from the Google Play Store :
+Download from the Google Play Store :
+
+
 <a href="https://play.google.com/store/apps/details?id=org.sturgeon.nubbles.android">
   <img alt="Get it on Google Play"
        src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
