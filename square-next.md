@@ -19,14 +19,11 @@ permalink: /square-next/
 Do you have what it takes to complete all three hundred sequences? It won't be easy, there are multiple fiendish hindrances to put you off...race against time to hit the squares in the correct order before the time runs out.
 
 
-
-![square next banner]({{ site.baseurl }}/images/sq_feature_1024_500.png "banner")
-
-
-Download from the Google Play Store :
-
-
 <a href="https://play.google.com/store/apps/details?id=org.sturgeon.seq">
   <img alt="Get it on Google Play"
        src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
-</a>
+</a>[![app store link]({{ site.baseurl }}/images/app_store.png)](https://itunes.apple.com/us/app/squarenext/id1033562728?mt=8)
+<iframe src="//itch.io/embed/32568?linkback=true" width="552" height="167" frameborder="0"></iframe>
+
+
+![square next banner]({{ site.baseurl }}/images/sq_feature_1024_500.png "banner")
