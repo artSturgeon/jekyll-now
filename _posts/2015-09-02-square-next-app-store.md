@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Square Next? iOS release!
+excerpt: SquareNext is now available on the App Store!
 ---
 
 App store ahoy!

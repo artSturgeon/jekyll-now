@@ -18,5 +18,3 @@ Debugging wasn't as bad as I thought it would be thanks to auto generated source
 Using Grunt as a build tool meant I could just write code, save and then switch to a browser to see the results immediately.
 
 The difficult part came when trying to get things working on Android...I started with CocoonJS, but having to upload a new file each time to be built in the cloud got annoying. I tried the command line version, but that just seemed to be using Cordova anyway. As I'm not really using any snazzy graphics I figured I may as well just use straight Cordova. Once I'd started down this route, things got easier, although I never did figure out a satisfactory way of integrating the Cordova parts into source control.
-
-I had the same problems with mobile resolution and scaling that I did with libgdx, so no quick wins there.

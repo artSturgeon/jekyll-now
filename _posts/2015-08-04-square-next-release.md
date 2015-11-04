@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Square Next?
+excerpt: New release now live on the Play Store!
 ---
 
 New release shocker!
