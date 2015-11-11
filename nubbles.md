@@ -21,7 +21,6 @@ Features:
 - Educational and fun!
 - Try to beat your high score!
 
-Play an alpha version now on this website.
 
 ![an image alt text]({{ site.baseurl }}/images/nubbles_banner_orig.png "an image title")
 
@@ -33,3 +32,6 @@ Download from the Google Play Store :
   <img alt="Get it on Google Play"
        src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
 </a>
+
+
+#Coming soon to iOS!

@@ -1,0 +1,18 @@
+---
+layout: page
+permalink: /games/
+---
+
+[![Nubbles][2]][1]
+  [1]: {{site.baseurl}}/nubbles
+  [2]: {{site.baseurl}}/images/games_banner_nubbles.png
+
+[![Square Next?][4]][3]
+
+  [3]: {{site.baseurl}}/square-next
+  [4]: {{site.baseurl}}/images/games_banner_square_next.png
+
+[![Giraffle][6]][5]
+
+[5]: {{site.baseurl}}/giraffle
+[6]: {{site.baseurl}}/images/games_banner_giraffle.png
