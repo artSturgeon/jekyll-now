@@ -34,4 +34,12 @@ Download from the Google Play Store :
 </a>
 
 
-#Coming soon to iOS!
+## New!
+## Available on the Apple App Store:
+
+### Free Version - ad supported
+[![app store link]({{ site.baseurl}}/images/app_store.png)](https://itunes.apple.com/us/app/nubbles-free/id1056944428?ls=1&mt=8)
+
+
+### Paid Version - pay once and play
+[![app store link]({{ site.baseurl}}/images/app_store.png)](https://itunes.apple.com/us/app/nubbles/id1056942877?ls=1&mt=8)
