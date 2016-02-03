@@ -16,3 +16,8 @@ permalink: /games/
 
 [5]: {{site.baseurl}}/giraffle
 [6]: {{site.baseurl}}/images/games_banner_giraffle.png
+
+[![Space Sweeper][8]][7]
+
+[7]: http://houseofsturgeon.itch.io/space-sweeper
+[8]: {{site.baseurl}}/images/games_banner_space_sweeper.png
