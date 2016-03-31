@@ -21,3 +21,7 @@ permalink: /games/
 
 [7]: http://houseofsturgeon.itch.io/space-sweeper
 [8]: {{site.baseurl}}/images/games_banner_space_sweeper.png
+
+[![Squirl][10]][9]
+[9]: {{site.baseurl}}/squirl
+[10]: {{site.baseurl}}/images/games_banner_squirl.png
