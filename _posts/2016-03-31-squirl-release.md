@@ -13,17 +13,17 @@ The first pic is one of the original prototype images, before much work had been
 <img src="../images/squirl_screen4.png" alt="Drawing" style="width: 220px;"/>
 
 
-It seems to take me about 6 months to finish a game no matter the scope (apart from Space Sweeper, I think having a one month deadline was a good thing!).
+Written in [Kotlin](https://kotlinlang.org/), using [libGDX](https://libgdx.badlogicgames.com/) and [Ashley](https://github.com/libgdx/ashley/wiki).
 
-Talking about scope, it was all over the place with this one. I think in future a fully working prototype is in order before committing to a project!
+[RoboVM](https://robovm.com/) for compilation.
 
-Written in Kotlin, using libGDX, Ashley, RoboVM for compilation.
+All graphics created in [Inkscape](https://inkscape.org) and [GIMP](https://www.gimp.org/).
 
-All graphics created in Inkscape and GIMP.
-
-Music created in Sunvox, original tune by [Clockwork Mitten](http://clockworkmitten.com).
+Music created in [Sunvox](http://www.warmplace.ru/soft/sunvox/), original tune by [Clockwork Mitten](http://clockworkmitten.com).
 
 Available now on the iOS App Store!
+
+[![app store link]({{ site.baseurl}}/images/app_store.png)](https://itunes.apple.com/us/app/squirl/id1065512901?ls=1&mt=8)
 
 Download, play, and tell your friends!
 

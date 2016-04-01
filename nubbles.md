@@ -29,12 +29,13 @@ Download from the Google Play Store :
 
 
 <a href="https://play.google.com/store/apps/details?id=org.sturgeon.nubbles.android">
-  <img alt="Get it on Google Play"
-       src="https://developer.android.com/images/brand/en_generic_rgb_wo_60.png" />
+  <img alt="Get it on Google Play" style="width: 140px;"
+       src="https://play.google.com/intl/en_us/badges/images/generic/en-play-badge.png" />
 </a>
 
 
 ## New!
+
 ## Available on the Apple App Store:
 
 ### Free Version - ad supported
